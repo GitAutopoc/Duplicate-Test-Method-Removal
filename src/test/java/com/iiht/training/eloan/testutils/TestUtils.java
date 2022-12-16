@@ -79,7 +79,7 @@ public class TestUtils {
 
 		customData = readData("../custom.ih");
 		String resultStatus = "Failed";
-		testName = "sametestname"
+		testName = "sametestname";
 		int resultScore = 0;
 		if (result.toString().equals("true")) {
 			resultScore = 1;
